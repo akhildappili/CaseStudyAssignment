@@ -40,8 +40,8 @@ namespace CaseStudyAssignment
 
 
 
-            //indexof()
-
+            //indexof() //edited one
+            Console.WriteLine("hello siri");
             
             Console.WriteLine("Hello World!");
             Console.ReadKey();
